@@ -1,0 +1,1084 @@
+cd .config/
+ls
+cd kitty/
+ls
+nvim kitty.conf
+nvim .config/hypr/hyprland.conf
+sudo nvim .config/hypr/hyprland.conf
+sudo nvim /etc/pacman.conf
+sudo pacman -Syu
+sudo pacman -S steam
+gparted
+firefox
+sudo pacman -S discord
+xrandr 
+nvim /etc/mkinitcpio.conf
+sudo mkinitcpio --config /etc/mkinitcpio.conf --generate /boot/initramfs-custom.img
+xrandr 
+nvim .config/hypr/hyprland.conf
+xrandr 
+nvim .config/hypr/hyprland.conf
+xrandr 
+gtf 1920 1080 144
+xrandr 
+nvim .config/hypr/hyprland.conf
+sudo shotdown now
+xrandr 
+nvim .config/hypr/hyprland.conf
+sudo pacman -Syu
+nvim .config/hypr/hyprland.conf
+rm /home/mikkel/.config/nushell/env.nu
+sudo pacman -S nmap
+sudo pacman -S rustscan
+sudo pacman -S openvpn
+sudo pacman -S ftpclient
+sudo pacman -S openssh
+sudo pacman -S netcat
+sudo pacman -S smbclient
+sudo pacman -S snmpwalk
+sudo pacman -S net-snmp
+snmpwalk 
+sudo pacman -S gobuster
+ranger
+sudo pacman -S ranger
+yay -S gobuster
+sudo pacman -S ranger
+ranger
+ls
+ls -a
+nvim .config/hypr/hyprland.conf
+sudo yay -Syu
+cd Downloads/
+ls
+mv academy-regular.ovpn /home/mikkel/
+cd l.
+cd ..
+lls
+ls
+git clone https://github.com/danielmiessler/SecLists
+mkdir tools
+cd tools/
+git clone https://github.com/carlospolop/PEASS-ng
+cd ..
+cd tools/
+ls
+cd ..
+ls
+mv SecLists/ tools/
+ls
+cd tools/
+cd ..
+cd go/
+ls
+cd ..
+go
+ls
+rm go
+rm -rf go
+go
+ls
+sudo pacman -S obsidian
+sudo pacman -S arandr
+sudo pacman -S searchsploit
+yay -S searchsploit
+yay -S exploit-db-git
+cd tools/
+git clone https://gitlab.com/exploit-database/exploitdb
+cd ..
+ls
+sudo openvpn academy-regular.ovpn
+cd Downloads/
+mv starting_point_mifd39.ovpn /home/mikkel/
+cd ..
+ls
+sudo openvpn start starting_point_mifd39.ovpn &
+sudo openvpn starting_point_mifd39.ovpn &
+sudo openvpn starting_point_mifd39.ovpn&
+ls
+sudo openvpn academy-regular.ovpn&
+sudo openvpn academy-regular.ovpn &
+sudo openvpn academy-regular.ovpn
+sudo openvpn starting_point_mifd39.ovpn
+ifconfing
+ip
+netstat
+ip
+ipa
+ip -a
+ip address
+ssh <\n>
+ssh 94.237.56.76:55489
+ssh user1@94.237.56.76:55489
+sudo openvpn starting_point_mifd39.ovpn
+sudo openvpn academy-regular.ovpn
+sudo pacman -Syu
+arandr 
+sudo arandr 
+sudo pacman -Syu
+nvim .config/hypr/hyprland.conf
+sudo pacman -S Hyperland
+yay -S hyperland-git
+yay -S hyperland
+sudo pacman -S hyperland
+hyprland
+nvim .config/hypr/hyprland.conf
+:q
+exit
+Hyprland
+hyprland
+Hyprland
+nvim .config/hypr/hyprland.conf
+Hyprland
+nvim .config/hypr/hyprland.conf
+Hyprland
+nvim .config/hypr/hyprland.conf
+Hyprland
+reboot
+Hyprland
+cd ~/.local/bin
+raner
+ranger
+cd /bin/
+ls
+Hyprland
+reboot
+Hyprland
+sudo pacman -Rs hyprland
+sudo pacman -Rs Hyprland
+Hyprland 
+gnome
+HyperLand
+cd /bin/
+cd ..
+cd usr/bin/
+nvim wrappedh1.sh
+sudo nvim wrappedh1.sh
+cd ~
+wrappedh1
+/wrappedh1
+/.wrappedh1
+cd usr/bin/
+cd ~
+ls
+cd ..
+cd usr/bin/
+/.wrappedh1
+ls
+wrappedh1
+/.wrappedh1
+wra
+ls
+wrappedh1.sh
+sudo wrappedh1.sh
+sudo /.wrappedh1.sh
+sudo ./wrappedh1.sh
+HyperLand
+Hyperland
+cd ../..
+Hyprland
+reboot
+sudo pacman -Rs hyprland
+sudo pacman -Rs Hyprland
+sudo yay -Rs hyprland-git
+yay -Rs hyprland-git
+yay -Rs hyprland
+sudo pacman -Rs gnome
+sudo pacman -S sway
+sudo nmcli
+nmcli
+systemctl start networkManager
+systemctl start NetworkManager
+nmcli
+nmcli device
+nmcli device wlo1 connect
+nmcli --delp
+nmcli --help
+nmcli d 
+nmcli c
+exit
+cd ..
+ls
+mkdir -r /home/mikkel/.config/sway/
+mkdir -R /home/mikkel/.config/sway/
+mkdir  /home/mikkel/.config/sway/
+cp config /home/mikkel/.config/sway/config
+cd /home/mikkel/.config/sway/
+ls
+nvim config
+sway
+nmcli d wifi list
+sudo systemctl enable NetworkManager
+nmcli d wifi list
+sudo systemctl start NetworkManager
+nmcli d wifi list
+nmcli d wifi c AirTies_Air4960_FF4V password fhmmfk7798
+ping google.com
+ping gnu.org
+wofi show
+cd /etc/sway/
+ls
+cd config.d/
+ls
+nvim `50-systemd-user.conf`
+cd 
+cd /etc/X11/xorg.conf.d/
+ls
+cd
+nvim .config/sway/config
+sway-nvidia 
+nvim /etc/X11/xorg.conf.d/40-libinput.conf
+sudo nvim /etc/X11/xorg.conf.d/40-libinput.conf
+nvim .config/kitty/
+nvim .config/kitty/kitty.conf
+firefox &
+firefo &
+shutdown
+shutdownnow
+shutdow now
+shurdown now
+firefo &
+nvim .config/sway/config
+firefox &
+nvim .config/sway/config
+firefox &
+firefox
+swww -i /home/mikkel/Pictures/wallpaper.gif
+swww /home/mikkel/Pictures/wallpaper.gif
+swww --help
+tldr swww
+swww init
+swww img /home/mikkel/Pictures/wallpaper.gif
+firefox
+nvim .config/sway/config
+nvim .config/sway/config
+firefox
+swww img /home/mikkel/Pictures/wallpaper.gif
+swww init
+nvim .config/sway/config
+shutdow now
+shurdown now
+sudo pacman -Syu
+ls
+git clone https://gitlab.com/exploit-database/exploitdb
+git clone https://github.com/SolDoesTech/HyprV4.git
+cd HyprV4/
+ls
+cd HyprV/
+ls
+cp wofi/ /home/mikkel/.config
+cp wofi/ /home/mikkel/.config/
+mv wofi/ /home/mikkel/.config/
+mv wofi /home/mikkel/.config/
+mkdir  /home/mikkel/.config/wofi
+mv wofi/* /home/mikkel/.config/wofi/
+cd
+ls
+cd .config/
+ls
+cd wofi/
+ls
+wofi
+nvim style.css
+firefox &
+ls
+nvim .config/sway/config
+pip
+python
+pip install --user stacki3
+python pip --user isntall stacki3
+python -m pip --user isntall stacki3
+python3 -m pip --user isntall stacki3
+python -m ensurepip --upgrade
+sudo pacman -S python-xyz
+pacman -S<\n>    python-xyz
+sudo pacman -S<\n>    python-xyz
+sudo pacman -S python-xyz
+cd Downloads/
+ls
+python get-pip.py
+cd..
+cd ..
+yay -S i3a
+i3a-master-stack 
+i3a-master-stack --help
+i3a-master-stack --stack dwm
+nvim .config/sway/config
+nvim .config/systemd/user/i3a-master-stack
+sudo nvim .config/systemd/user/i3a-master-stack
+cd .local/
+ls
+cd ..
+nvim .config/sway/config
+systemd
+mkdir -h
+tldr mkdri
+tldr mkdir
+mkdir -p ~/.config/systemd/user/
+mkdir ~/.config/systemd/user/
+cd .config/systemd/user/
+ls
+nvim i3a-master-stack
+cd ..
+cd
+nvim .config/sway/config
+systemctl start i3a-master-stack.service
+systemctl --user start i3a-master-stack.service
+cd .config/systemd/user/
+ls
+systemd-umount i3a-master-stack
+systemctl --user start i3a-master-stack.service
+systemctl --user start i3a-master-stack
+ls
+systemctl list-units
+ls
+cd .config/systemd/user/
+cp i3a-master-stack /etc/systemd/user/i3a-master-stack
+sudo cp i3a-master-stack /etc/systemd/user/i3a-master-stack
+ls
+cd
+systemctl start i3a-master-stack.service
+systemctl start i3a-master-stack
+mv i3a-master-stack i3a-master-stack.service
+cp i3a-master-stack i3a-master-stack.service
+sudo cp i3a-master-stack i3a-master-stack.service
+ls
+systemctl start i3a-master-stack
+systemctl --user start i3a-master-stack
+systemctl --user start i3a-master-stack.service
+ls
+systemctl --user i3a-master-stack.service
+systemctl restart --user i3a-master-stack.service
+nvim .config/sway/config
+systemctl status --user i3a-master-stack.service
+ls
+systemctl status --user i3a-master-stack
+ranger
+ls
+sudo nvim i3a-master-stack 
+systemctl status --user i3a-master-stack
+systemctl start --user i3a-master-stack
+ranger
+where i3a-master-stack
+ranger
+sudo nvim i3a-master-stack 
+systemctl start --user i3a-master-stack
+systemctl status--user i3a-master-stack
+systemctl status --user i3a-master-stack
+sudo nvim i3a-master-stack 
+ls
+cd ..
+cd xdg/systemd/user/
+ls
+sudo nvim i3a-master-stack.service
+systemctl status --user i3a-master-stack
+systemctl start --user i3a-master-stack
+systemctl restart --user i3a-master-stack
+systemctl status --user i3a-master-stack
+systemctl start --user i3a-master-stack
+systemctl --user deamon-reload
+systemctl --user daemon-reload
+systemctl start --user i3a-master-stack
+systemctl status --user i3a-master-stack
+systemctl status --user i3a-master-stack
+systemctl restart --user i3a-master-stack
+systemctl restart --user i3a-master-stack.service
+systemctl status --user i3a-master-stack.service
+nvim .config/sway/config
+nvim .config/kitty/kitty.conf
+swayms
+swaymsg -t get_outputs
+swww img -o HDMI-A-1 /home/mikkel/Pictures/largeWallpaper.jpg
+ls
+cd HyprV4/
+ls
+cd HyprV/kitty/
+ls
+cd .config/kitty/
+ls
+rm kitty.conf
+cp kitty.conf /home/mikkel/.config/kitty/
+cp mocha.conf /home/mikkel/.config/kitty/
+ls
+nvim kitty.conf
+config nu
+$nu.config-path
+nvim .config/nushell/config.nu
+nvim .config/kitty/kitty.conf
+ranger
+sudo pacman -S mesa
+pacman -Q
+pacman -Q nvi
+pacman -Q nvidea
+sudo pacman -Rs nvidia-*
+sudo pacman -Rs nvidia-dkms nvidia-settings nvidea-utils
+sudo pacman -Rs nvidia-dkms nvidia-settings
+sudo pacman -Rs nvidia-utils
+sudo pacman -R nvidia-utils
+nvim .config/sway/config
+sudo pacman -Rs steam
+sudo pacman -Rs nvidia-utils
+pactree
+pactree -r -A
+pactree -r -A nvidia-utls
+pactree -r 
+pactree -r -a 
+pactree -r -a nvidia-utils
+sudo pacman -Rs hyprland-nvidia
+sudo pacman -R hyprland-nvidia
+pactree -r -a nvidia-utils
+cd /etc/X11/xorg.conf.d/
+ls
+cd
+cd /etc/X11/xorg.conf.d/
+ls
+nvim 20-nouveau.conf
+sudo nvim 20-nouveau.conf
+rmmod nvidia
+sudo pacman -R nvidia_uvm
+sudo openvpn academy-regular.ovpn
+sudo openvpn academy-regular.ovpn &
+ip address
+sudo openvpn academy-regular.ovpn &
+sudo openvpn academy-regular.ovpn 
+ip a
+ssh user1@94.237.56.76:55489
+ping 94.237.56.76:55489
+ssh user1@94.237.56.76 -p 55489
+ip a
+ping 94.237.56.76
+ssh user1@94.237.56.76 -p 55489
+ssh user1@94.237.56.76
+ssh user1@94.237.56.76 -p 55489
+ssh user1@94.237.56.76 -p 55489 password1
+ssh user1@94.237.56.76
+nc -l -p 1234
+ls
+nvim id_rsa
+chmod 600 id_rsa
+ssh root@94.237.49.11 i id_rsa
+ls
+nvim id
+nvim id_rsa
+ssh root@94.237.49.11 i id_rsa
+ssh root@94.237.49.11 -i id_rsa
+ssh root@94.237.49.11 -p 34360 -i id_rsa
+ssh root@94.237.49.11 -i id_rsa
+ssh root@94.237.49.11 -p 34360 -i id_rsa
+nvim id_rsa
+ssh root@94.237.49.11 -p 34360 -i id_rsa
+ssh root@94.237.49.11 -i id_rsa
+nvim id_rsa
+chmod 600 id_rsa
+ls -la
+ssh user1@94.237.49.11 -p 34360
+cd too
+cd tools/
+ls
+tldr rustscan
+tldr tar
+tldr nmap
+tldr rustscan
+rustscan -h
+cd
+rustscan -h
+rustscan -T 1500 -a 10.129.110.128 -- -sV -oA nibble_first_scan
+ls
+rm id_rsa
+rustscan -a 10.129.110.128 -- -sV -oA nibble_first_scan
+rustscan -a 10.129.110.128 -ulimit 5000 -- -sV -oA nibble_first_scan
+rustscan -a 10.129.110.128  -- -sV -oA nibble_first_scan --ulimit 5000
+ping 10.129.110.128
+sudo op
+c
+sudo openvpn Downloads/
+ping 10.129.164.116
+sudo openvpn Downloads/academy-regular.ovpn
+ping 10.129.164.116
+ping 10.129.117.9
+ip a
+ping 10.129.117.9
+nmap 10.129.117.9
+ping 10.129.117.9
+ping 10.129.117.9 -c 3
+sudo openvpn `Downloads/academy-regular(1).ovpn`
+ping 10.129.117.9
+sudo openvpn academy-regular.ovpn 
+rm academy-regular.ovpn
+cd Downloads/
+ls
+rm *
+ls
+cd ..
+mv Downloads/academy-regular.ovpn 
+mv Downloads/academy-regular.ovpn ~/
+ls
+ping 10.129.235.101
+rustscan -a 10.129.235.101 -- -sV -oA nibbels_start --ulimit 5000
+rustscan -a 10.129.235.101 --ulimit 5000 -- -sV -oA nibbels_start
+nmap -sV --open -oA nibbels_inital 10.129.235.101
+ping 10.129.235.101
+nmap -sV --open -oA nibbels_inital 10.129.235.101
+ls
+nvim nibbels_inital.gnmap
+nvim nibbels_inital.nmap
+namp -p- --open -Oa nibbels_full 10.129.235.101
+nmap -p- --open -Oa nibbels_full 10.129.235.101
+nmap -p- --open -oA nibbels_full 10.129.235.101
+ping 10.129.235.101
+nc -nv 10.129.235.101 22
+ping 10.129.235.101
+10.129.235.101
+ping 10.129.235.101
+nc -nv 10.129.235.101 22
+nc -nv 10.129.235.101 80
+nmap -p- --open -oA nibbels_full 10.129.235.101
+nmap -p- -sV --open -oA nibbels_full 10.129.235.101
+searchspolt Apache httpd 2.4.18
+whatweb 10.129.235.101
+sudo pacman -S whatweb
+yay -S whatweb
+whatweb 10.129.235.101
+ping 10.129.235.101
+10.129.235.101
+ping 10.129.235.101
+sudo openvpn academy-regular.ovpn 
+ping 10.129.235.101
+ls
+nvim nibbels_full.nmap
+rm nibbels_in*
+ls
+rm starting_point_mifd39.ovpn
+ls
+mkdir nibbels
+mv nibbels* nibbels/
+ls
+cd nibbels/
+ls
+ping 10.129.235.101
+whatweb 10.129.235.101
+ping 10.129.235.101
+ping 10.129.158.72
+whatweb 10.129.235.101
+whatweb 10.129.158.72
+curl http://10.129.158.72
+whatweb 10.129.158.72/nibbleblog
+ping 10.129.158.72
+ls
+rm academy-regular.ovpn
+sudo openvpn academy-regular.ovpn 
+cd Downloads/
+ls
+mv academy-regular.ovpn /home/mikkel/
+cd ..\
+cd
+ls
+ping 10.129.179.120
+whatweb 10.129.179.120/nibbleblog
+ping 10.129.179.120
+gobuster
+gobuster -dir http://10.129.179.120/nibbleblog/ --wordlist ~/tools/SecLists/Discovery/Web-Content/common.txt
+gobuster dir -u http://10.129.179.120/nibbleblog/ --wordlist ~/tools/SecLists/Discovery/Web-Content/common.txt
+curl http://10.129.179.120/nibbleblog/README
+gobuster dir -u http://10.129.179.120/nibbleblog/ --wordlist ~/tools/SecLists/Discovery/Web-Content/common.txt
+cd nibbels/
+nvim test.php
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/test.php
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+ls
+nvim test.php
+ip a
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+nc -lvnp 9443
+ip a
+nvim test.php
+nc -lvnp 9443
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+nc -lvnp 9443
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+cd ..
+cd tools/
+ls
+cd PEASS-ng/
+ls
+cd linPEAS/
+ls
+nvim README.md
+ls -a
+cd builder/
+ls
+cd ..
+ls
+cd ..
+ls
+nvim README.md
+cd ..
+wget https://github.com/carlospolop/PEASS-ng/releases/tag/20230903-188479ae
+sudo pacman -S wget
+wget https://github.com/carlospolop/PEASS-ng/releases/tag/20230903-188479ae
+ls
+rm `20230903-188479ae`
+ls
+rm -rf PEASS-ng/
+ls
+cd ..
+cp Downloads/linpeas.sh 
+cp Downloads/linpeas.sh /
+cp Downloads/linpeas.sh /home/mikkel/tools/
+cp Downloads/winPEASany.exe /home/mikkel/tools/
+cd tools/
+ls
+ip a
+nc -lvnp 9443
+cd tools/
+wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh
+ls
+sudo python3 -m http.server 8080
+nc -lvnp 9443
+nc -lvnp 8443
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+nc -lvnp 8443
+nc -lvnp 8443
+nc -lvnp 9443
+ls
+cd ..
+cd nibbels/
+ls
+nvim test.php
+curl http://10.129.179.120/nibbleblog/content/private/plugins/my_image/image.php
+let ip = 10.129.200.170
+let target = 10.129.200.170
+let $target = 10.129.200.170
+let target
+let target = 10.129.200.170;
+$env.target = 10.129.200.170
+target
+$target
+$env.target
+ping $env.target
+ls
+ip a
+nc -lvnp 9443
+nc -lvnp 8443
+nc -lvnp 9443
+s
+ls
+ip a
+nc -lvnp 8443
+nc -lvnp 9443
+ping $env.target
+curl http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+nc -lvnp 8443
+ip a
+sudo openvpn academy-regular.ovpn 
+ip a
+nvim test.php
+ip a
+ip a
+nc -lvnp 9443
+ip a
+nc -lvnp 8443
+ip addr del 10.10.16.24/23 dev tun3
+sudo ip addr del 10.10.16.24/23 dev tun3
+sudo ip addr del 10.10.16.24/23 dev tun2
+ip a
+sudo ip addr del 10.10.15.23/23 dev tun1
+sudo ip addr del 10.10.15.158/23 dev tun1
+ip a
+openvpn --rmtun --dev tun3
+sudo openvpn --rmtun --dev tun3
+ip a
+sudo ip link delete tun3
+sudo ip link delete tun1
+ls
+ip a
+ip link delete tun0
+sudo ip link delete tun0
+ip a
+ping 10.129.200.170
+nvim test.php
+ip a
+nc -lvnp 9443
+cd nibbels/
+nvim test.php
+nc -lvnp 9443
+nvim test.php
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+ls
+nvim image.php
+rm image.php
+ls
+cat test.php
+:q
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+cat test.php
+:q
+nc -lvnp 9443
+ip a
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+cd nibbels/
+ls
+cat image.php
+cat image.php.1
+nvim image.php
+nvim image.php.1
+nvim image.php
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+ls
+rm image.*
+ls
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+ls
+cat image.php
+cat test.php
+wget http://10.129.200.170/nibbleblog/content/private/plugins/my_image/image.php
+ls
+cat image.php
+ls
+rm image.*
+ls
+nc -lvnp 9443
+ping 10.129.200.170
+ping 10.129.115.66
+sudo openvpn academy-regular.ovpn 
+cd ..
+ls
+rm academy-regular.ovpn
+mv academy-regular.ovpn /home/mikkel/
+cd Downloads/
+mv academy-regular.ovpn /home/mikkel/
+cd ..
+ls
+ip a
+ping 10.129.115.66
+nc -lvnp 8443
+nc -lvnpe 8443
+nc -levnp 8443
+nc -lvnp 8443
+nc -dkl 8443
+nc -dl 8443
+nc -lvnp 8443
+nc -lvnp 9443
+shutdownnow
+cd Pictures/
+ls
+sudo pacman -S pillow
+cargo install viu
+sudo pacman -S cargo
+cargo install viu
+rustup default stable
+cargo install vie
+cargo install viu
+cd Pictures/
+viu largeWallpaper.jpg
+viu
+pacman -S viu
+sudo pacman -S viu
+viu largeWallpaper.jpg
+cd Pictures/
+viu largeWallpaper.jpg
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim<\n>nvim
+cd .config/kitty/
+cd ..
+ls
+cd nvim
+ls
+cd lua
+ls
+cd plugins/
+ls
+nvim mason.lua
+nvim
+cd config.d/
+cd configs/
+ls
+nvim heirline.lua
+nvim notify.lua
+nvim alpha.lua
+cd ..
+ls
+nvim treesitter.lua
+nvim markdown.lua
+nvim
+ls
+nvim
+ls
+sudo pacman -S nmp
+sudo pacman -S npm
+nvim test.md
+ping 10.129.120.170
+ls
+rm -rf nibbels/
+mkdir endOfchapter
+cd endOfchapter/
+nmap -sV --open -oA end_inital 10.129.120.170
+whatweb 10.129.120.170
+gobuster dir -u http://10.129.120.170 --wordlist /home/mikkel/tools/SecLists/Discovery/Web-Content/common.txt
+cd ..
+cd Downloads/
+ls
+cat failedlogins.log
+:q
+cd ..
+cd endOfchapter/
+ls
+ip a
+nc -lvnp 9443
+sudo pacman -S i3blocks
+nvim .config/sway/config
+nvim 
+cd .config/sway/
+ls
+nvim status.sh
+nvim
+cat /sys/class/power_supply/BAT0/status
+cat /sys/class/power_supply/BAT0/charge_now
+cat /sys/class/power_supply/BAT0/current_now
+cat /sys/class/power_supply/BAT0/status
+find /sys/class/power_supply/BAT0/ -type f | xargs -tn1 cat
+acpi -V
+sudo pacman -S acpi
+acpi -V
+acpi -b
+nvim
+rmmod nvidia
+rmmod nvidia_modset
+rmmod nvidia_uvm
+sudo rmmod nvidia_uvm
+sudo rmmod nvidia
+sudo rmmod nvidia_modset
+sudo pacman -R nvidia_modset
+sudo service gdm3 stop
+sudo rmmod nvidia_drm
+sudo modprobe -r nvidia_modset
+sudo modprobe -r nvidia
+sudo modprobe -r nvidia_uvm
+sudo pacman -R nvidia
+sudo pacman -Q
+sudo pacman -R nvidia_utils
+sudo pacman -R nvidia-utils
+sudo pacman -Rs nvidia-utils
+sudo pacman -Rsu nvidia-utils
+sudo pacman -S mesa
+sudo pacman -S xorg-server
+sudo pacman -Rs nvidia-utils
+sudo pacman -R libva-nvidia-driver-git
+sudo pacman -Rs nvidia-utils
+sudo pacman -R nvidia-utils
+sudo rmmod nvidia
+sudo rmmod nvidia_modset
+xrandr --listproviders
+sudo pacman -S xf86-video-nouveau
+sudo pacman -S xf86-video-intel
+pacman -Qs ‘nvidia’ | grep
+pacman -Qs ‘nvidia’ | grep '^'
+pacman -Qs 'nvidia'
+sudo pacman -S nvidia nvidia-utils nvidia-settings
+lscpi -v
+lspci -v
+sudo pacman -Rd nvidia nvidia-utils
+sudo pacman -Rd nvidia nvidia-utils nvidia-settings
+lspci -v
+sudo os-prober
+sudo supdate-grub
+sudo update-grub
+yay -S update-grub
+sudo update-grub
+pacman -S grub-customizer
+sudo pacman -S grub-customizer
+grub-customizer 
+nvim
+cd .config/sway/
+ls
+ls -a
+ls -la
+nvim config
+cd ..
+ls
+cd ..
+ls
+rm test.md
+ls
+ls -a
+cd .config/
+ls
+sudo pacman -S fish
+cd .config/
+ls
+mkdir -p i3blocks/config/
+mkdir -p i3blocks/config
+mkdir i3blocks
+cd i3blocks/
+mkdir config
+cd configs/
+cd config
+ls
+sudo mv /etc/i3blocks.conf i3blocks.conf
+ls
+rm i3blocks.conf
+cd ..
+ls
+rm -fr i3blocks/
+sudo pacman -S i3blocks
+sudo pacman -R i3blocks
+sudo pacman -S i3blocks
+cd
+nvim /etc/i3blocks.conf
+mkdir .config/i3blocks
+cd .config/i3blocks/
+mkdir config
+cd config/
+ls
+sudo cp /etc/i3blocks.conf i3blocks.conf
+ls
+nvim battery.py
+ls
+nvim i3blocks.conf
+ls -la
+chuser i3blocks.conf
+chowm mikkel i3blocks.conf
+chown mikkel i3blocks.conf
+sudo chown mikkel i3blocks.conf
+ls
+ls -l
+ls
+rm i3blocks.conf
+cd ..
+rm -fr config/
+ls
+nvim battery.py
+ls
+cp /etc/i3blocks.conf i3blocks.conf
+ls
+chowm mikkel i3blocks.conf
+mikkel chown mikkel i3blocks.conf
+sudo chown mikkel i3blocks.conf
+ls
+ls -la
+nvim i3blocks.conf
+cp i3blocks.conf /etc/i3blocks.conf
+sudo cp i3blocks.conf /etc/i3blocks.conf
+ranger
+cd /etc/
+sudo nvim i3blocks.conf
+cd .config/i3blocks/
+ls
+nvim i3blocks.conf
+mkdir config
+mv i3blocks.conf /home/mikkel/.config/i3blocks/config/i3blocks.conf
+ls
+cd config/
+cd 
+cd .config/
+ls
+mv i3blocks/config/i3blocks.conf i3blocks.conf
+ls
+rm i3blocks.conf
+cd i3blocks/config/
+ls
+cd ..
+rm -fr config/
+cd /etc/
+sudo nvim i3blocks.conf
+cd .config/i3blocks/
+ls
+pwd
+acpi -b
+sudo nvim i3blocks.conf
+acpi -h
+acpi -bi
+acpi -a
+timedatectl show
+cat /etc/localetime
+timedatectl list-timezones
+timedatectl set-timezone Europe/Copenhagen
+timedatectl set-timezone show
+timedatectl show
+ip a
+ip a show dev tun 0
+ip a show dev tun0
+ip a show dev tun0 | grep inet
+ip a show dev tun0 | grep tun0
+ip a show dev tun0 | grep tun0 | grep inet
+cd etc
+cd /etc/
+ip a
+sudo openvpn academy-regular.ovpn 
+sudo ip link delete tun0
+ip a
+sudo openvpn academy-regular.ovpn 
+nmcli
+nmcli staus
+nmcli -h
+nmcli -po
+nmcli -o
+nmcli -po
+nmcli -h
+nmcli -p
+nmcli -p | grep connected
+nmcli -p | grep connected | wlo1
+nmcli -p | grep connected | grep wlo1
+nmcli -p | grep connected
+nmcli -p | grep connected | grep wlo1 | grep -m ""
+nmcli -p | grep connected | grep wlo1 | grep -m 
+nmcli -p | grep connected | grep wlo1 | grep -m1 
+nmcli -p | grep connected | grep wlo1 | grep -m1  ""
+nmcli -p | grep connected
+nmcli -p | grep connected | grep -m1 ""
+nmcli -p | grep connected | grep -m2 ""
+sed
+nmcli -p | grep connected | grep -m2 ""
+nmcli -p | grep connected | sed -n '1p' ""
+nmcli -p | grep connected | sed -n '1p'
+nmcli -p | grep connected | sed -n '2p'
+sudo nvim i3blocks.conf
+sudo openvpn academy-regular.ovpn 
+sudo nvim i3blocks.conf
+cd /etc/
+nmcli -p | grep connected | sed -n '1p'
+sudo nvim i3blocks.conf
+acpi -t
+acpi -h
+acpi -c
+acpi -ci
+acpi -t
+cd etc
+cd /etc
+ls
+sudo nvim i3blocks.conf
+sudo pacman -S powertop
+powertop
+sudo powertop
+sudo pacman -R powertop
+hhtop
+btop
+timedatectl | grep local
+tim
+timedatectl set-local-rtc 1
+timedatectl set-timezone Europe/Copenhagen
+xsltproc
+ping 10.129.254.175
+sudo nmap 10.129.254.175 -sT -oX -n -Pn
+sudo nmap 10.129.254.175 -sT -oX tmp -n -Pn
+ls
+sudo nmap 10.129.254.175 -sT -oA tmp -n -Pn
+ls
+xsltproc tmp.xml -o tmp.html
+ls
+rm tmp*
+ls
+rustscan -a 10.129.254.175 -- -p- -sV -Pn -n --status-every=5
+rustscan -a 10.129.254.175 -- -sV -Pn -n --status-every=5
+rustscan -a 10.129.254.175 -- -sV -Pn -n
+rustscan -a 10.129.254.175 -- -sV -n
+rustscan -a 10.129.254.175 --ulimit 5000 -- -sV -n
+rustscan -a 10.129.254.175 --ulimit 5000 -- -sU -sT -sV -n
+nc -nv 10.129.254.175 31337
+sudo rustscan -a 10.129.254.175 --ulimit 5000 -- -sU -sT -sV -n
+sudo pacman -Syu
+sudo nmap 10.129.254.175 -p 80 --script malware
+sudo nmap 10.129.254.175 -p 80 --script safe
+sudo nmap 10.129.254.175 -p 80 --script banner
+sudo nmap 10.129.254.175 -p 8080 --script banner
+sudo nmap 10.129.254.175 -p 80 -sV --script vuln -vvv
+nmcli device wifi list

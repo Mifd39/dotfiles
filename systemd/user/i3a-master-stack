@@ -1,0 +1,6 @@
+[Unit]
+Description=i3a-master-stack
+
+[Service]
+ExecStart=%h/.local/bin/i3a-master-stack --stack=dwm --stack-size=45
+Restart=on-failureuser/

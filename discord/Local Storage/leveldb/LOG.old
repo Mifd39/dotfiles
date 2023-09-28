@@ -1,0 +1,6 @@
+2023/09/07-07:33:50.209 10bc Reusing MANIFEST /home/mikkel/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/09/07-07:33:50.209 10bc Recovering log #3
+2023/09/07-07:33:50.209 10bc Reusing old log /home/mikkel/.config/discord/Local Storage/leveldb/000003.log 
+2023/09/07-07:35:50.797 10db Level-0 table #5: started
+2023/09/07-07:35:50.819 10db Level-0 table #5: 1888365 bytes OK
+2023/09/07-07:35:50.826 10db Delete type=0 #3
